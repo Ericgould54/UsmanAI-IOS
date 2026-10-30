@@ -1,3 +1,4 @@
+
 const config = {
   appId: 'com.usmanai.app',
   appName: 'UsmanAI',

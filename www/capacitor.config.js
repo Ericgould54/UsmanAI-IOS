@@ -11,4 +11,8 @@ const config = {
   }
 };
 
+<<<<<<< HEAD
 module.exports = config;
+=======
+module.exports = config;
+>>>>>>> 118505fc508e2c7c0ec78794740c98476d1ea336
